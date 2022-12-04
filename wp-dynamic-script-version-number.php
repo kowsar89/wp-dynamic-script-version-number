@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Dynamic Script Version Number
-Plugin URI: http://radiustheme.com
+Plugin URI: https://kowsarhossain.com/
 Description: Generate Dynamic Script Version Number into CSS/JS to ignore static cache
 Version: 1.0
 */
