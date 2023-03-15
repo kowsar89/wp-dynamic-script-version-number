@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP Dynamic Script Version Number
 Plugin URI: https://kowsarhossain.com/
-Description: Generate Dynamic Script Version Number into CSS/JS to bypass cache. Could be used inside mu-plugins as well.
+Description: Generate dynamic version number into CSS/JS to bypass browser cache. Could be used inside mu-plugins as well.
 Version: 1.0
 */
 
